@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body {
-    color: rgb(232, 117, 186);
-    background: darkseagreen;
+    color: rgb(15, 15, 15);
+    background: #ff9dae;
     margin: 0px;
     font-family: "Bebas Neue", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px seagreen;
+    border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: seagreen;
+    color: rgb(255, 255, 255);
 }
 
 .chamada {
-    background: rgb(230, 230, 230);
+    background: rgb(255 230 241);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
